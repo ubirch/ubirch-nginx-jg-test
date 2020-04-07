@@ -1,2 +1,5 @@
 # ubirch-nginx-jg-test
-Test nginx and janusgraph cluster solution
+Test janusgraph cluster solution
+
+## test scenario
+* launch 
